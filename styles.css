@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+li{
+    padding: 30px;
+    background-color: lightgreen;
+    margin: 20px 25% 20px 25%;
+    color: grey;
+    border-radius: 35px;
+}
+li:hover{
+    background-color: green;
+    color: black; 
+}
+button{
+    padding: 10px;
+    font-size: 30px;
+}
